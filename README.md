@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **li9i/li9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li9i/li9i/master/img/ary1N8V_700bwp.jpg">
+    <img src="https://raw.githubusercontent.com/li9i/li9i/master/img/ary1N8V_700bwp.jpg" width="50%">
+  </picture>
+</div>
